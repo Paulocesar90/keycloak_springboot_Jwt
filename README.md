@@ -2,7 +2,7 @@
 
 <h2>Clone o Projeto</h2>
 <p>Clone o projeto do GitHub para iniciar a integração:</p>
-<pre>git clone https://github.com/seu-usuario/seu-projeto.git</pre>
+<pre>git clone git@github.com:Paulocesar90/keycloak_springboot_Jwt.git</pre>
 
 <h2>Configuração do Keycloak</h2>
 <ul>
